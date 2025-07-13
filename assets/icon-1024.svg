@@ -1,0 +1,13 @@
+<svg width="1024" height="1024" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1024" height="1024" fill="#1a1a2e" />
+  
+  <!-- Top bar (word tile) -->
+  <rect x="128" y="128" width="768" height="224" rx="32" fill="#3a2b5d" />
+  
+  <!-- Middle bar (input box) -->
+  <rect x="128" y="400" width="768" height="224" rx="32" fill="#2c2c44" stroke="#a167a5" stroke-width="24" />
+  
+  <!-- Bottom bar (word tile) -->
+  <rect x="128" y="672" width="768" height="224" rx="32" fill="#3a2b5d" />
+</svg>
